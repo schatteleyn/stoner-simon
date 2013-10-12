@@ -62,6 +62,12 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
+    match (fromList [ "links.markdown" ]) $ do
+      route   $ setExtension "html"
+      compile $ pandocCompiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
+
     create ["atom.xml"] $ do
         route idRoute
         compile $ do
