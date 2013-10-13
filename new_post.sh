@@ -22,4 +22,4 @@ description:
 
 EOF
 
-$EDITOR "posts/"$filename
+/usr/bin/vim "posts/"$filename

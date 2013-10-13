@@ -22,6 +22,8 @@ publish: build
 	git checkout master
 	git clean -fdx
 	git stash pop || true
+	git commit -m "Publish"
+	git push origin master
 
 preview: site
 	./site preview
