@@ -23,7 +23,7 @@ publish: build
 	git clean -fdx
 	git stash pop || true
 	git commit -m "Publish"
-	git push origin master
+	git push 
 
 preview: site
 	./site preview

@@ -98,7 +98,7 @@ feedCtx = bodyField "description" `mappend`
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
     { feedTitle       = "Stoner Simon"
-    , feedDescription = "Sharing stoner along the web"
+    , feedDescription = "Stoner Simon - Sharing stoner along the web"
     , feedAuthorName  = "Simon"
     , feedAuthorEmail = ""
     , feedRoot        = "http://schatteleyn.github.io/stoner-simon"
