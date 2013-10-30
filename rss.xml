@@ -6,8 +6,29 @@
         <description><![CDATA[Stoner Simon - Sharing stoner along the web]]></description>
         <atom:link href="http://schatteleyn.github.io/stoner-simon/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 29 Oct 2013 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2013 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Fu Manchu - Robotic Invasion</title>
+    <link>http://schatteleyn.github.io/stoner-simon/posts/2013-10-30-fu-manchu-robotic-invasion.html</link>
+    <description><![CDATA[<div class="info">
+    Posted on October 30, 2013
+    
+        by Simon
+    
+    <br/>
+    Tagged: Stoner, Classic band, USA, New song
+</div>
+
+<p>New song from the great Fu Manchu ! Enjoy.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/116872450"></iframe>
+
+
+
+]]></description>
+    <pubDate>Wed, 30 Oct 2013 00:00:00 UT</pubDate>
+    <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-10-30-fu-manchu-robotic-invasion.html</guid>
+</item>
+<item>
     <title>Noctum - Liberty In Death</title>
     <link>http://schatteleyn.github.io/stoner-simon/posts/2013-10-29-noctum-liberty-in-death.html</link>
     <description><![CDATA[<div class="info">
@@ -185,26 +206,6 @@
 ]]></description>
     <pubDate>Sat, 12 Oct 2013 00:00:00 UT</pubDate>
     <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-10-12-om-rays-of-the-sunto-the-shrinebuilder.html</guid>
-</item>
-<item>
-    <title>Sun And Sail Club - Held Down</title>
-    <link>http://schatteleyn.github.io/stoner-simon/posts/2013-10-10-sun-and-sail-club.html</link>
-    <description><![CDATA[<div class="info">
-    Posted on October 10, 2013
-    
-        by Simon
-    
-    <br/>
-    Tagged: Stoner, USA
-</div>
-
-<p>This band is a side project for two members of Fu Manchu, Bob Balch and Scott Reeder, and an ex-member of Kyuss, Scott Thomas Reeder. It’s obviously close from the two bands, but darker, and with an interesting twist in the voice. You’ll hear.</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/jQltT42GbmY" frameborder="0" allowfullscreen></iframe>
-
-
-]]></description>
-    <pubDate>Thu, 10 Oct 2013 00:00:00 UT</pubDate>
-    <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-10-10-sun-and-sail-club.html</guid>
 </item>
 
     </channel> 
