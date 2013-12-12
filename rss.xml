@@ -6,8 +6,28 @@
         <description><![CDATA[Stoner Simon - Sharing stoner along the web]]></description>
         <atom:link href="http://schatteleyn.github.io/stoner-simon/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Mon, 09 Dec 2013 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2013 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Indian Sunburn - Saturno</title>
+    <link>http://schatteleyn.github.io/stoner-simon/posts/2013-12-12-indian-sunburn-saturno.html</link>
+    <description><![CDATA[<div class="info">
+    Posted on December 12, 2013
+    
+        by Simon
+    
+    <br/>
+    Tagged: Sweden, Stoner, Desert Rock
+</div>
+
+<p>Another great swedish stoner rock band ! Big bass and groovy riffing here. Also, the cover is awesome !</p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/3z-kBhQzBaI" frameborder="0" allowfullscreen></iframe>
+
+
+]]></description>
+    <pubDate>Thu, 12 Dec 2013 00:00:00 UT</pubDate>
+    <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-12-12-indian-sunburn-saturno.html</guid>
+</item>
+<item>
     <title>Boudain - King Of The Cosmos</title>
     <link>http://schatteleyn.github.io/stoner-simon/posts/2013-12-09-boudain-king-of-the-cosmos.html</link>
     <description><![CDATA[<div class="info">
@@ -191,27 +211,6 @@
 ]]></description>
     <pubDate>Sun, 03 Nov 2013 00:00:00 UT</pubDate>
     <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-11-03-acrimony-motherslug-the-mother-of-all-slugs.html</guid>
-</item>
-<item>
-    <title>Fu Manchu - Robotic Invasion</title>
-    <link>http://schatteleyn.github.io/stoner-simon/posts/2013-10-30-fu-manchu-robotic-invasion.html</link>
-    <description><![CDATA[<div class="info">
-    Posted on October 30, 2013
-    
-        by Simon
-    
-    <br/>
-    Tagged: Stoner, Classic band, USA, New song
-</div>
-
-<p>New song from the great Fu Manchu ! Enjoy.</p>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/116872450"></iframe>
-
-
-
-]]></description>
-    <pubDate>Wed, 30 Oct 2013 00:00:00 UT</pubDate>
-    <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-10-30-fu-manchu-robotic-invasion.html</guid>
 </item>
 
     </channel> 
