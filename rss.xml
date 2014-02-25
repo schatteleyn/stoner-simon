@@ -6,8 +6,28 @@
         <description><![CDATA[Stoner Simon - Sharing stoner along the web]]></description>
         <atom:link href="http://schatteleyn.github.io/stoner-simon/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 24 Jan 2014 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2014 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Mars Red Sky - Arcadia</title>
+    <link>http://schatteleyn.github.io/stoner-simon/posts/2014-02-25-mars-red-sky-arcadia.html</link>
+    <description><![CDATA[<div class="info">
+    Posted on February 25, 2014
+    
+        by Simon
+    
+    <br/>
+    Tagged: Stoner, Psychedelic, France
+</div>
+
+<p>This is a track from the new album of Mars Red Sky, a great french stoner band. I can’t wait to see them at Hellfest !</p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/QrQ9yclWg8w" frameborder="0" allowfullscreen></iframe>
+
+
+]]></description>
+    <pubDate>Tue, 25 Feb 2014 00:00:00 UT</pubDate>
+    <guid>http://schatteleyn.github.io/stoner-simon/posts/2014-02-25-mars-red-sky-arcadia.html</guid>
+</item>
+<item>
     <title>Truckfighters - Mind Control</title>
     <link>http://schatteleyn.github.io/stoner-simon/posts/2014-01-24-truckfighters-mind-control.html</link>
     <description><![CDATA[<div class="info">
@@ -186,26 +206,6 @@
 ]]></description>
     <pubDate>Mon, 09 Dec 2013 00:00:00 UT</pubDate>
     <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-12-09-boudain-king-of-the-cosmos.html</guid>
-</item>
-<item>
-    <title>Skraeckoedlan - Haven</title>
-    <link>http://schatteleyn.github.io/stoner-simon/posts/2013-11-26-skraeckoedlan-haven.html</link>
-    <description><![CDATA[<div class="info">
-    Posted on November 26, 2013
-    
-        by Simon
-    
-    <br/>
-    Tagged: Stoner, Psychedelic, Sweden, heavy
-</div>
-
-<p>Well, Sweden seems like the new heaven of stoner. ANother awesome band, sounding very Truckfighter-esque (and I love these guys) with a more obvious psychedelic side. Awesome !</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/s0Kjq3cPz4Y" frameborder="0" allowfullscreen></iframe>
-
-
-]]></description>
-    <pubDate>Tue, 26 Nov 2013 00:00:00 UT</pubDate>
-    <guid>http://schatteleyn.github.io/stoner-simon/posts/2013-11-26-skraeckoedlan-haven.html</guid>
 </item>
 
     </channel> 
